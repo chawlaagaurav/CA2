@@ -1,0 +1,31 @@
+#boxopen {
+    width: 100px;
+    height: 100px;
+    margin: -9px 49.9%;
+    position: absolute;
+    border: 6px double #1a1a1a;
+    z-index: 110;
+}
+
+
+.centerbox {
+    margin: 0 -64.5px;
+}
+
+ @keyframes rotate {
+    0% { 
+        -moz-transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+
+    100% {
+        -moz-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+}

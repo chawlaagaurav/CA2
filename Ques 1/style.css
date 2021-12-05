@@ -1,0 +1,32 @@
+body{
+    margin:0;
+}
+.container-1{
+    background-image: url("images/tim-swaan-eOpewngf68w-unsplash.jpg");
+    padding: 5% 12%;
+    opacity: 0.8;
+    height: 100%;
+}
+.navbaritem{
+    margin: 0 20px;
+    
+}
+.navi{
+    background: none;
+}
+.nav-link{
+    color: white;
+}
+.h111{
+    margin: 20% 6% 5%;
+    color: white;
+    font-size: xx-large;
+}
+.h444{
+    margin: 0 6%;
+    color: white;
+    font-size: xx-large;
+}
+.buti{
+    margin: 10% 8% 5%;
+}
